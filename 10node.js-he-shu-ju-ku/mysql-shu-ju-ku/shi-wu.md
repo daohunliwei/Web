@@ -1,0 +1,6 @@
+# 事务语句
+
+* 开启：begin
+* 提交：commit
+* 回滚：rollback
+
